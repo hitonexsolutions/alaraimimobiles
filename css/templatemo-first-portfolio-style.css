@@ -202,7 +202,7 @@ strong {
   margin-left: -10px;
   border-radius: 50%;
   border: 1px solid var(--border-color);
-  border-top-color: var(--white-color);
+  border-top-color: var(--secondary-color);
   animation: spinner .9s linear infinite;
 }
 
